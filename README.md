@@ -5,7 +5,7 @@
 - 🌱 Learning: AI, cloud IAM, advanced Java & data structures
 - 🤝 Open to: SWE, Data, AI internships, collaborative projects
 
-<h1 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Github Stats</h1>
+### 📈 My GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=jchambard&show_icons=true&theme=radical)<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jchambard&layout=compact&theme=radical)<br>
 ![Trophy](https://github-profile-trophy.vercel.app/?username=jchambard&theme=onedark)
