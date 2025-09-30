@@ -22,4 +22,4 @@ CS Freshman @ Purdue 🎓
 
 ### 📫 Reach me at
 - email: johnchambard07@gmail.com
-- [LinkedIn]([https://www.linkedin.com/in/john-chambard-b22104302/])
+- https://www.linkedin.com/in/john-chambard-b22104302/
