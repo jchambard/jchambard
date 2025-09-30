@@ -22,5 +22,5 @@ CS Freshman @ Purdue 🎓
 
 ### 📫 Reach me at
 johnchambard07@gmail.com<br>
-(810) 333-5948<br>
+(810) 333-5948<br><br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/john-chambard-b22104302/)
