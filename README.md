@@ -21,5 +21,6 @@ CS Freshman @ Purdue 🎓
 - 🏐 Volleyball enthusiast
 
 ### 📫 Reach me at
-- Email: johnchambard07@gmail.com
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/john-chambard-b22104302/)
+johnchambard07@gmail.com
+(810) 333-5948
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/john-chambard-b22104302/)
