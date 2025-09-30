@@ -17,6 +17,9 @@ CS Freshman @ Purdue 🎓
   - **Netsync Internship:** AWS-powered Integrated Learning Environment with cloud IAM focus.
 </details>
 
-### ⚡ Fun Facts
+### ⚡ Hobbies
 - 🏐 Volleyball enthusiast
-- 📫 Reach me at: johnchambard07@gmail.com | [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/john-chambard-b22104302/))
+
+### 📫 Reach me at
+- email: johnchambard07@gmail.com
+- [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/john-chambard-b22104302/))
