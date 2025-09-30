@@ -7,14 +7,14 @@ CS Freshman @ Purdue 🎓
 - 🤝 Open to: SWE, Data, AI internships, collaborative projects
 
 ### 📈 My GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=jchambard&show_icons=true&theme=radical)(...)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jchambard&layout=compact&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=jchambard&show_icons=true&theme=radical)<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jchambard&layout=compact&theme=radical)<br>
 ![Trophy](https://github-profile-trophy.vercel.app/?username=jchambard&theme=onedark)
 
 <details>
   <summary><h3>📝 Resume & Experience</h3></summary>
-  * Bear Den: Educational mobile app with backend in Golang, frontend in React Native.
-  * Netsync Internship: AWS-powered Integrated Learning Environment with cloud IAM focus.
+  - Bear Den: Educational mobile app with backend in Golang, frontend in React Native.<br>
+  - Netsync Internship: AWS-powered Integrated Learning Environment with cloud IAM focus.
 </details>
 
 ### ⚡ Hobbies
