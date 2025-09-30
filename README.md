@@ -18,9 +18,13 @@ CS Freshman @ Purdue 🎓
 </details>
 
 ### ⚡ Hobbies
-- 🏐 Volleyball enthusiast
+- 🏐 Volleyball
+- 🏃‍➡️ Running
+- 🛠️ Engineering
+- 🛩️ Flying
+- 🛥️ Wakeboarding
 
 ### 📫 Reach me at
 johnchambard07@gmail.com<br>
 (810) 333-5948<br><br>
-[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/john-chambard-b22104302/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/john-chambard-b22104302/)
