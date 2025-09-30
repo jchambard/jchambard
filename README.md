@@ -8,8 +8,8 @@ Competitive runner 🏃| CS Freshman @ Purdue 🎓 | Mobile App Dev 🚀
 - 🛠️ Tech Stack: Java | Golang | React Native | Firebase | AWS | R | Python
 
 ### 📈 My GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=[YourUsername]&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[YourUsername]&layout=compact)
+![Stats](https://github-readme-stats.vercel.app/api?username=jchambard&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jchambard&layout=compact)
 
 <details>
   <summary><h3>📝 Resume & Experience</h3></summary>
