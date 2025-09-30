@@ -13,8 +13,8 @@ CS Freshman @ Purdue 🎓
 
 <details>
   <summary><h3>📝 Resume & Experience</h3></summary>
-  - **Bear Den:** Educational mobile app with backend in Golang, frontend in React Native.
-  - **Netsync Internship:** AWS-powered Integrated Learning Environment with cloud IAM focus.
+  - Bear Den: Educational mobile app with backend in Golang, frontend in React Native.
+  - Netsync Internship: AWS-powered Integrated Learning Environment with cloud IAM focus.
 </details>
 
 ### ⚡ Hobbies
