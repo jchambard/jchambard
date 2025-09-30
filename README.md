@@ -7,9 +7,8 @@ CS Freshman @ Purdue 🎓
 - 🤝 Open to: SWE, Data, AI internships, collaborative projects
 
 ### 📈 My GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=jchambard&show_icons=true&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=jchambard&show_icons=true&theme=radical)(...)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jchambard&layout=compact&theme=radical)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=jchambard&theme=radical)
 ![Trophy](https://github-profile-trophy.vercel.app/?username=jchambard&theme=onedark)
 
 <details>
