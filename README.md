@@ -1,7 +1,7 @@
 ## 👋 Hello! I'm John Chambard
 
 <h1 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Current Status</h1>
-- 🔭 Currently working on: NetSync Internship (React, AWS, Golang)<br>
+- 🔭 Currently working on: Software Development at NETSYNC (React, AWS, Golang)<br>
 - 🌱 Learning: AI, cloud technologies, advanced data structures<br>
 - 🤝 Open to: SWE, Data, AI internships and collaborative projects
 
@@ -13,7 +13,7 @@
 
 <h1 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Resume & Experiences</h1>
   - Bear Den: Educational mobile app with backend in Golang, frontend in React Native.<br>
-  - Netsync Internship: AWS-powered Integrated Learning Environment with cloud IAM focus.
+  - Netsync Internship: AWS-powered Mobile App and Integrated Learning Environment with cloud IAM focus.
 
 <h1 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Education</h1>
 CS Freshman @ Purdue 🎓
