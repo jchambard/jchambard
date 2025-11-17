@@ -1,7 +1,7 @@
 <!-- HEADER -->
 <h1 align="center">👋 Hi, I'm <strong>John Chambard</strong></h1>
 <p align="center">
-  <em>Software Developer • CS @ Purdue • Cloud & AI Enthusiast</em>
+  <em>Software Developer @ NETSYNC • CS @ Purdue • Tech Enthusiast</em>
 </p>
 
 <p align="center">
@@ -13,10 +13,10 @@
 ## 🚀 About Me
 I’m a software developer passionate about **cloud infrastructure, AI systems, backend engineering**, and building polished user experiences. I love taking projects from idea → architecture → production.
 
-- 🔭 Currently building: **AWS-powered mobile platforms, Golang backends, and full-stack apps**
+- 🔭 Currently building: **AWS-powered mobile platforms, Golang backends, and full-stack apps at NETSYNC**
 - 🌱 Learning more about: **AI engineering, serverless design, and distributed systems**
 - 🤝 Seeking: **SWE, AI, and cloud internships** + cool collaborative projects  
-- 🎯 Goal: Grow into a backend/AI engineer solving real-world problems at scale
+- 🎯 Goal: Grow into a software engineer solving real-world problems at scale
 
 ---
 
@@ -33,7 +33,7 @@ Here are a few projects I’m proud of—showcasing full-stack, backend, and clo
 Built:
 - AWS-powered mobile application for client data access  
 - Cloud IAM integrations (Auth0 + AWS)  
-- Internal learning platform with secure access controls  
+- Learning platform for distributing remote desktops for cyberscurity university students with secure access controls  
 
 ---
 
