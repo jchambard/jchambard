@@ -29,7 +29,7 @@ Here are a few projects I’m proud of—showcasing full-stack, backend, and clo
 - React Native frontend
 - Secure student/instructor data flows  
 
-### **☁️ Netsync Cloud Internship**
+### **☁️ Netsync Software Developer**
 Built:
 - AWS-powered mobile application for client data access  
 - Cloud IAM integrations (Auth0 + AWS)  
