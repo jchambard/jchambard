@@ -99,8 +99,7 @@ Built:
 
 ## 📬 Contact Me  
 <p>
-📧 Email: **johnchambard07@gmail.com**  
-📱 Phone: **(810) 333-5948**
+📧 Email: johnchambard07@gmail.com
 </p>
 
 <p>
