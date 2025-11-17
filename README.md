@@ -50,41 +50,23 @@ Built:
 ---
 
 # 🧰 Tech Stack
+### **Languages**
+<p align="center"> <img src="https://skillicons.dev/icons?i=java,c,cpp,cs,go,py,js,ts,mysql,r,html,css" /> </p> <p align="center"> Java • C • C++ • C# • Golang • Python • JavaScript/TypeScript • SQL • R • MASM Assembly • HTML/CSS </p>
+
 ### **Frontend**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,html,css,jquery" />
-</p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=react,vite,tailwind" /> </p> <p align="center"> React • React Native • Vite • Tailwind </p>
 
 ### **Backend**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,go" />
-</p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=nodejs,flask,express,fastapi" /> </p> <p align="center"> Node.js • Flask • Express • FastAPI</p>
 
 ### **Databases**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Neo4j-logo_color.png" width="70"/>
-</p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase" /> </p> <p align="center"> PostgreSQL • MongoDB • Firebase </p>
 
 ### **Cloud & DevOps**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,oracle,docker,kubernetes,terraform,ansible" />
-</p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=aws,azure,docker,bitbucket" /> </p> <p align="center"> AWS • Azure • Docker • Bitbucket </p>
 
 ### **AI/ML**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch" />
-  <img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" width="50"/>
-  <img src="https://github.com/valohai/ml-logos/blob/master/pandas.svg" width="90"/>
-  <img src="https://github.com/KenanGain/KenanGain/blob/main/icons/Tensorflow.gif" width="80"/>
-</p>
-
-**AI Tools**
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/LangChain_logo.png" width="90"/>
-  <img src="https://ollama.ai/public/ollama.png" width="50"/>
-  <img src="https://github.com/run-llama/logos/blob/main/LlamaLogo%20Square.png" width="55"/>
-</p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" /> <img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" width="50"/> </p> <p align="center"> PyTorch • TensorFlow • scikit-learn • NumPy </p>
 
 ---
 
