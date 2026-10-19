@@ -16,7 +16,7 @@ I'm a computer science student at Purdue (B.S. May 2028) who likes building thin
 
 ## Selected work
 
-| | |
+| Project | What it is |
 |---|---|
 | **[HearLink](https://github.com/jchambard/HearLink-Project)**<br><sub>ESP32-S3 · ESP-IDF · C · Python · TensorFlow</sub> | Wearable spatial-sound awareness for Deaf and hard-of-hearing users. A four-mic collar streams audio over UDP to a host that beamforms, classifies sounds with YAMNet, and drives directional haptics and a head-mounted compass. Built at StarkHacks; I wrote all of the firmware and software. |
 | **[Morph](https://github.com/jchambard/Morph-Startup-Project)**<br><sub>Python · FastAPI · TypeScript · LLMs</sub> | Goal-first personal software. An LLM pipeline turns what you're trying to accomplish into generated, working widgets, with Anthropic and fully local Ollama backends. |
